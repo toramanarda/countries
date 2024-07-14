@@ -209,10 +209,6 @@ header h3 {
   padding-bottom: 40px;
 }
 
-.content:last-child {
-  margin-bottom: 65px;
-}
-
 /* Desktop Area Start */
 
 @media(width >=1110px) {
