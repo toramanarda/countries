@@ -185,8 +185,7 @@ header h3 {
 
 .content img {
   padding-bottom: 24px;
-  height: 150px;
-  object-fit: cover;
+  object-fit: contain;
   width: 100%;
 }
 
@@ -340,9 +339,9 @@ header h3 {
   }
 
   .content img {
-    height: 150px;
+    height: 250px;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
   }
 
   .content h2 {
