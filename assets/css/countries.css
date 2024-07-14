@@ -185,6 +185,9 @@ header h3 {
 
 .content img {
   padding-bottom: 24px;
+  height: 150px;
+  object-fit: cover;
+  width: 100%;
 }
 
 .content h2 {
@@ -334,6 +337,12 @@ header h3 {
   .content {
     background-color: #2B3844;
     color: white;
+  }
+
+  .content img {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
   }
 
   .content h2 {
